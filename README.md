@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Rafli</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend & Backend Developer from Indonesia</h3>
 
 - 🔭 I’m currently study at [Institut Teknologi Telkom Purwokerto](https://ittelkom-pwt.ac.id/)
 
